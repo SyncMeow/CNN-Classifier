@@ -1,0 +1,10 @@
+Accuracy for class: plane is 82.00 %
+Accuracy for class: car   is 81.90 %
+Accuracy for class: bird  is 56.30 %
+Accuracy for class: cat   is 59.90 %
+Accuracy for class: deer  is 73.40 %
+Accuracy for class: dog   is 60.70 %
+Accuracy for class: frog  is 81.10 %
+Accuracy for class: horse is 81.80 %
+Accuracy for class: ship  is 84.30 %
+Accuracy for class: truck is 88.40 %
